@@ -11,7 +11,7 @@ git clone https://github.com/SuchitG04/data-analyst-agent.git
 ### Install packages
 
 The recommended way is to have conda (or miniforge) on your PC and install through that.
-
+Navigate to the repo's directory and run:
 ```bash
 conda env create --name environment_name -f environment.yml
 ```
