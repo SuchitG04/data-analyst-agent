@@ -19,3 +19,5 @@ conda env create --name environment_name -f environment.yml
 Refer to [this](https://stackoverflow.com/a/68104395) stackoverflow answer for more details or help.
 
 And run the notebooks!
+
+Note: You'll need an OpenAI API key to run the notebooks yourselves.
