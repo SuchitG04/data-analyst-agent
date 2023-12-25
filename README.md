@@ -20,4 +20,4 @@ Refer to [this](https://stackoverflow.com/a/68104395) stackoverflow answer for m
 
 And run the notebooks!
 
-Note: You'll need an OpenAI API key to run the notebooks yourselves.
+Note: You'll need an OpenAI API key to use same code as in the notebooks. In my experiments, not even a single open source model worked well.
